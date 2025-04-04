@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Dosis de Ciencia</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Dosis de Ciencia</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Física Cuántica</title>
+      <link>http://localhost:1313/tags/f%C3%ADsica-cu%C3%A1ntica/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/f%C3%ADsica-cu%C3%A1ntica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introducción</title>
+      <link>http://localhost:1313/tags/introducci%C3%B3n/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/introducci%C3%B3n/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
